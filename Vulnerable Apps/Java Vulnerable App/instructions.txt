@@ -1,0 +1,4 @@
+1. Install JDK
+2. Double Click the JavaVulnerable.jar to run( if double click is not working, run this command "java -jar JavaVulnerable.jar" in your Terminal or CMD)
+3. In your Browser, go to "http://localhost:8080/JavaVulnerableLab/install.jsp 
+4. Click the Install Button
